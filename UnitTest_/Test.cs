@@ -24,4 +24,4 @@ namespace lesson13UnitTests
 
     }
 }
-
+//checked. Test is ok - but it would be better if you show the original project, which is under your testing
